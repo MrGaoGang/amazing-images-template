@@ -1,6 +1,6 @@
 # amazing-images-template
 
-将上传照片制作成带有设计感的海报的 Skill。提供四种可复用模板，保留原照主体，并根据当前照片组织构图、色彩与文案。
+将上传照片制作成带有设计感的海报的 Skill。提供五种可复用模板，保留原照主体，并根据当前照片组织构图、色彩与文案。
 
 ## 模板与案例
 
@@ -10,7 +10,7 @@
 | 2 | 厚涂油画微景观对照海报 | 上半真实摄影，下半同一场景的厚涂油画微景观 | [模板 2](references/impasto-photo-poster.md) |
 | 3 | 流体光栅线条雕塑双联海报 | 上半原照，下半连续柔性线条形成主体体积，低饱和油墨与大面积暖白留白 | [模板 3](references/fluid-raster-diptych.md) |
 | 4 | 第二世界摄影二创海报 | 上下等高；上半忠实保留原照，下半从照片独有的视觉结构推演可互动的“第二世界” | [模板 4](references/second-world-photo-poster.md)（暂无案例） |
-| 5 | 地理叠图独立杂志摄影 | 保留原始旅行照片，以透明地图图层呈现地点地理特征 | [模板 5](references/geographic-map-editorial.md)（暂无案例） |
+| 5 | 地理叠图独立杂志摄影 | 保留原始旅行照片，以透明地图图层呈现地点地理特征 | [模板 5](references/geographic-map-editorial.md) |
 
 ### 模板 1：实景延伸线稿旅行海报
 
@@ -48,14 +48,18 @@
 
 保留原始旅行照片的主体、色彩、光影和画幅比例，根据用户提供的拍摄地点选择真实地理元素，以透明图层叠加在天空、海面等负空间；使用细线、低饱和颜色、少量英文地名和小红点位置标记。没有精确 GPS 时只表达大致区域，不编造坐标。
 
-本模板暂无案例。请查看[模板 5 规则](references/geographic-map-editorial.md)。
+案例以敦煌鸣沙山与月牙泉为例，在天空留白处叠加区域地形线与地点标记。
+
+![模板 5 案例：敦煌月牙泉照片上的地理线稿与位置标记](example/template-5.jpg)
+
+请查看[模板 5 规则](references/geographic-map-editorial.md)。
 
 ## 使用方式
 
 在支持 Skill 的助手中加载本目录的 [SKILL.md](SKILL.md)，并保留 `references/` 与 `example/` 目录，以便读取模板规则和展示案例。
 
 1. 上传需要处理的原照，并调用 `amazing-images-template`。
-2. 未指定模板时，助手会展示四个模板的名称、视觉说明及可用案例图片，供你选择；模板 4 暂无案例时会注明这一点。
+2. 未指定模板时，助手会展示五个模板的名称、视觉说明及可用案例图片，供你选择；模板 4 暂无案例时会注明这一点。
 3. 回复编号、模板名称或明确的风格描述；已指定模板时会展示对应案例并继续处理，无需再次确认。
 4. 可补充“无字”“使用指定标题”“保留原比例”等要求。新图使用“继续”或“同款”可沿用当前对话已确认的模板。
 
@@ -90,6 +94,7 @@
 | [example/template-1.png](example/template-1.png) | 模板 1 案例图片 |
 | [example/template-2.png](example/template-2.png) | 模板 2 案例图片 |
 | [example/template-3.png](example/template-3.png) | 模板 3 山谷河流案例图片 |
+| [example/template-5.jpg](example/template-5.jpg) | 模板 5 敦煌月牙泉地理叠图案例图片 |
 
 ## 网站案例同步
 

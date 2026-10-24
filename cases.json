@@ -21,6 +21,13 @@
       "description": "从照片的山势与水流提炼连续柔性线条，在暖白纸面上形成低饱和线条雕塑。",
       "image": "template-3.png",
       "order": 3
+    },
+    {
+      "id": "template-5",
+      "title": "地理叠图独立杂志摄影｜敦煌月牙泉",
+      "description": "以敦煌鸣沙山与月牙泉照片为底图，在天空留白处叠加甘肃区域地形线、敦煌与月牙泉标记，呈现克制的地理编辑风格。",
+      "image": "template-5.jpg",
+      "order": 5
     }
   ]
 }
