@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "cases": [
+    {
+      "id": "template-1",
+      "title": "实景延伸线稿旅行海报",
+      "description": "将照片中的道路、水面、植物或建筑轮廓延伸为纤细线条，让线稿人物与真实场景互动。",
+      "image": "template-1.png",
+      "order": 1
+    },
+    {
+      "id": "template-2",
+      "title": "厚涂油画微景观对照海报",
+      "description": "上半保留摄影，下半将同一场景转译为带有刮刀肌理和颜料堆叠感的油画微景观。",
+      "image": "template-2.png",
+      "order": 2
+    },
+    {
+      "id": "template-3",
+      "title": "流体光栅线条雕塑双联海报",
+      "description": "从照片的山势与水流提炼连续柔性线条，在暖白纸面上形成低饱和线条雕塑。",
+      "image": "template-3.png",
+      "order": 3
+    }
+  ]
+}
