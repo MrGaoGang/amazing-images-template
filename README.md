@@ -10,6 +10,7 @@
 | 2 | 厚涂油画微景观对照海报 | 上半真实摄影，下半同一场景的厚涂油画微景观 | [模板 2](references/impasto-photo-poster.md) |
 | 3 | 流体光栅线条雕塑双联海报 | 上半原照，下半连续柔性线条形成主体体积，低饱和油墨与大面积暖白留白 | [模板 3](references/fluid-raster-diptych.md) |
 | 4 | 第二世界摄影二创海报 | 上下等高；上半忠实保留原照，下半从照片独有的视觉结构推演可互动的“第二世界” | [模板 4](references/second-world-photo-poster.md)（暂无案例） |
+| 5 | 地理叠图独立杂志摄影 | 保留原始旅行照片，以透明地图图层呈现地点地理特征 | [模板 5](references/geographic-map-editorial.md)（暂无案例） |
 
 ### 模板 1：实景延伸线稿旅行海报
 
@@ -42,6 +43,12 @@
 默认 3:4 竖版，上下严格等高。上半尽可能忠实保留摄影原图；下半以暖米色纸面留白为底，依据照片里最有辨识度的视觉结构，推演出只属于这张照片的“第二世界”。剪贴外形和 0–3 个可选的黑色线稿人物都需真正参与解释或使用照片结构，并配一句自然轻松的英文手写旁白。不套用固定撕纸边或重复动作。
 
 本模板暂无案例。请查看[模板 4 规则](references/second-world-photo-poster.md)。
+
+### 模板 5：地理叠图独立杂志摄影
+
+保留原始旅行照片的主体、色彩、光影和画幅比例，根据用户提供的拍摄地点选择真实地理元素，以透明图层叠加在天空、海面等负空间；使用细线、低饱和颜色、少量英文地名和小红点位置标记。没有精确 GPS 时只表达大致区域，不编造坐标。
+
+本模板暂无案例。请查看[模板 5 规则](references/geographic-map-editorial.md)。
 
 ## 使用方式
 
@@ -77,6 +84,7 @@
 | [references/impasto-photo-poster.md](references/impasto-photo-poster.md) | 模板 2 的构图、材质与验收规则 |
 | [references/fluid-raster-diptych.md](references/fluid-raster-diptych.md) | 模板 3 的完整提示词、构图与验收规则 |
 | [references/second-world-photo-poster.md](references/second-world-photo-poster.md) | 模板 4 的照片观察方法、提示词、避免项与验收规则 |
+| [references/geographic-map-editorial.md](references/geographic-map-editorial.md) | 模板 5 的地理叠图提示词、地点准确性与验收规则 |
 | [cases.json](cases.json) | 网站案例展示清单；映射案例文案和 `example/` 图片 |
 | [references/impasto-prompt.md](references/impasto-prompt.md) | 模板 2 的提示词组装与定向修正 |
 | [example/template-1.png](example/template-1.png) | 模板 1 案例图片 |
