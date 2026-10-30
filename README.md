@@ -1,10 +1,10 @@
 # amazing-images-template
 
-将上传照片制作成带有设计感的海报或摄影风格作品的 Skill。提供六种可复用模板，保留原照主体，并根据当前照片组织构图、色彩与文案。
+将上传照片制作成带有设计感的海报或摄影风格作品的 Skill。提供七种可复用模板，保留原照主体，并根据当前照片组织构图、色彩与文案。
 
 ## 模板与案例
 
-模板 1–5 为「海报类型」，模板 6 为「调色类型」，按类型分组预览并保留原编号。
+模板 1–5 为「海报类型」，模板 6–7 为「调色类型」，按类型分组预览并保留原编号。
 
 | 编号 | 类型 | 模板 | 效果 | 详细规则 |
 | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | 4 | 海报类型 | 第二世界摄影二创海报 | 上下等高；上半忠实保留原照，下半从照片独有的视觉结构推演可互动的“第二世界” | [模板 4](references/second-world-photo-poster.md)（暂无案例） |
 | 5 | 海报类型 | 地理叠图独立杂志摄影 | 保留原始旅行照片，以透明地图图层呈现地点地理特征 | [模板 5](references/geographic-map-editorial.md) |
 | 6 | 调色类型 | 局部夕照胶片纪实 | 原构图，约 10%–20% 局部夕阳照明、橙金奶油光斑与有细节的深影 | [模板 6](references/local-sunset-film-documentary.md) |
+| 7 | 调色类型 | 墨绿雾感电影纪实 | 低饱和墨绿与灰青、渐进雾感、通透深影、主体清晰与柔和散景 | [模板 7](references/moody-green-foggy-cinematic.md)（暂无案例） |
 
 ### 模板 1：实景延伸线稿旅行海报
 
@@ -65,12 +66,18 @@
 
 请查看[模板 6 规则](references/local-sunset-film-documentary.md)。
 
+### 模板 7：墨绿雾感电影纪实
+
+调色类型，采用 Moody Green Foggy Cinematic 风格。保留主体、人物姿态、建筑结构、空间透视与构图，适度净化干扰；以低饱和墨绿、灰青与深森林绿塑造通透深影和由近及远的青绿色雾感，主体清晰、背景柔和虚化，搭配克制暖色与细腻胶片颗粒。
+
+本模板暂无案例。请查看[模板 7 规则](references/moody-green-foggy-cinematic.md)。
+
 ## 使用方式
 
 在支持 Skill 的助手中加载本目录的 [SKILL.md](SKILL.md)，并保留 `references/` 与 `example/` 目录，以便读取模板规则和展示案例。
 
 1. 上传需要处理的原照，并调用 `amazing-images-template`。
-2. 未指定模板时，助手会展示六个模板的名称、视觉说明及可用案例图片，供你选择；模板 4 暂无案例时会注明这一点。
+2. 未指定模板时，助手会展示七个模板的名称、视觉说明及可用案例图片，供你选择；模板 4、7 暂无案例时会注明这一点。
 3. 回复编号、模板名称或明确的风格描述；已指定模板时会展示对应案例并继续处理，无需再次确认。
 4. 可补充“无字”“使用指定标题”“保留原比例”等要求。新图使用“继续”或“同款”可沿用当前对话已确认的模板。
 
@@ -101,6 +108,7 @@
 | [references/second-world-photo-poster.md](references/second-world-photo-poster.md) | 模板 4 的照片观察方法、提示词、避免项与验收规则 |
 | [references/geographic-map-editorial.md](references/geographic-map-editorial.md) | 模板 5 的地理叠图提示词、地点准确性与验收规则 |
 | [references/local-sunset-film-documentary.md](references/local-sunset-film-documentary.md) | 模板 6 的局部夕照提示词、胶片质感与验收规则 |
+| [references/moody-green-foggy-cinematic.md](references/moody-green-foggy-cinematic.md) | 模板 7 的墨绿雾感提示词、景深与验收规则 |
 | [cases.json](cases.json) | 网站案例展示清单；映射案例文案和 `example/` 图片 |
 | [references/impasto-prompt.md](references/impasto-prompt.md) | 模板 2 的提示词组装与定向修正 |
 | [example/template-1.png](example/template-1.png) | 模板 1 案例图片 |
