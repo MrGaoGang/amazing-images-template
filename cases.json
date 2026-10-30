@@ -39,7 +39,17 @@
       "description": "保留林间遛狗照片的主体与构图，仅以一小片橙金色夕照照亮人物和小狗附近，其余树林自然沉入有细节的深影，呈现低饱和暖调胶片质感。",
       "image": "template-6.png",
       "order": 6,
-      "category": "color-grading"
+      "category": "color-grading",
+      "originalImage": "template-6-original.jpg"
+    },
+    {
+      "id": "template-7",
+      "title": "墨绿雾感电影纪实",
+      "description": "保留登山者与雪山山谷构图，以低饱和墨绿灰青、渐进雾感和细腻胶片颗粒呈现安静深邃的电影氛围。",
+      "image": "template-7.png",
+      "order": 7,
+      "category": "color-grading",
+      "originalImage": "template-7-original.jpg"
     }
   ]
 }

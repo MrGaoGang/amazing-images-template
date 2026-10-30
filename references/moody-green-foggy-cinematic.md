@@ -3,7 +3,7 @@
 ## 输入
 
 - 一张用户上传的摄影原图，作为主体身份、人物姿态、建筑结构、空间透视及整体构图的唯一依据。
-- 属于「调色类型」，风格为 Moody Green Foggy Cinematic。本模板暂无案例，不创建失效图片链接。
+- 属于「调色类型」，风格为 Moody Green Foggy Cinematic。案例：`example/template-7.png`；原图：`example/template-7-original.jpg`。雪山和登山者仅为案例主体，不作为通用默认内容。
 - 依据原图实际环境处理；没有人物、建筑或局部光源时不为满足提示词新增这些元素。
 
 ## 默认构图
